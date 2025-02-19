@@ -3,7 +3,7 @@ title: hikingplan
 top_img: /img/mountain.png
 date: 2024-12-24 14:13:50
 tags: c++
-cover: "/img/mountain.png"
+cover: /img/mountain.png
 category: 刷题
 ---
 

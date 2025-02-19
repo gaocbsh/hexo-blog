@@ -1,5 +1,5 @@
 ---
 title: {{ title }}
 date: {{ date }}
-top_img: "/img/mountain.png"
+top_img: /img/mountain.png
 ---
