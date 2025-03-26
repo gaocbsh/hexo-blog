@@ -1,9 +1,9 @@
 ---
 title: hikingplan
-top_img: /img/mountain.png
+top_img: /img/background.png
 date: 2024-12-24 14:13:50
 tags: c++
-cover: /img/mountain.png
+cover: /img/unhappy.jpg
 category: 刷题
 ---
 

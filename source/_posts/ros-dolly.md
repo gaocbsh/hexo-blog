@@ -1,6 +1,7 @@
 ---
 title: ros-dolly分析
-top_img: /img/mountain.png
+top_img: /img/background.png
+cover: /img/unhappy.jpg
 date: 2024-12-24 21:48:26
 tags: ros-rt
 ---

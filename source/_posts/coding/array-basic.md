@@ -1,7 +1,7 @@
 ---
 title: 刷题——数组基础及例题分析
-top_img: /img/mountain.png
-cover: /img/mountain.png
+top_img: /img/background.png
+cover: /img/unhappy.jpg
 date: 2024-12-30 14:04:32
 tags: coding
 ---
