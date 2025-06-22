@@ -4,6 +4,7 @@ top_img: /img/background.png
 cover: /img/unhappy.jpg
 date: 2025-03-16 15:19:28
 tags: coding
+category: 刷题
 ---
 # 动态规划基础
 动态规划：Dynamic Programming，简称DP。

@@ -4,6 +4,7 @@ top_img: /img/background.png
 cover: /img/unhappy.jpg
 date: 2024-12-30 14:04:32
 tags: coding
+category: 刷题
 ---
 # 基础知识
 数组是存放在连续内存空间上的相同类型数据的集合,数组下标都是从0开始的。所以我们在删除或者增添元素的时候，就难免要移动其他元素的地址。

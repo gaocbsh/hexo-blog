@@ -3,7 +3,8 @@ title: 刷题——链表基础及例题分析
 top_img: /img/background.png
 cover: /img/unhappy.jpg
 date: 2025-01-06 20:57:28
-tags:
+tags: coding
+category: 刷题
 ---
 # 基础知识
 链表是一种通过指针串联在一起的线性结构，每个节点由两部分组成，一个是数据域，一个是指针域（存放指向下一个节点的指针），最后一个节点的指针指向null(空指针的意思)。
